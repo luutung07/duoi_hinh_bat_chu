@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CornerRight8">
+        <item name="cornerSizeTopRight">@dimen/dimen_corner_8</item>
+        <item name="cornerSizeBottomRight">@dimen/dimen_corner_8</item>
+    </style>
+
+    <style name="CornerLeft8">
+        <item name="cornerSizeTopLeft">@dimen/dimen_corner_8</item>
+        <item name="cornerSizeBottomLeft">@dimen/dimen_corner_8</item>
+    </style>
+
+</resources>

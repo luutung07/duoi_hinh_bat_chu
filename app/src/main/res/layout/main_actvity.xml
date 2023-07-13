@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_background_app"
+    tools:context=".presentation.main.MainActivity">
+
+    <ImageView
+        android:id="@+id/ivMainBackgroundHeader"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_100"
+        android:src="@drawable/ic_header"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/glMainV65"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.65" />
+
+    <ImageView
+        android:id="@+id/ivMainBackgroundScore"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/dimen_50"
+        android:layout_marginEnd="@dimen/dimen_10"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_score"
+        app:layout_constraintBottom_toBottomOf="@id/ivMainBackgroundHeader"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@id/glMainV65"
+        app:layout_constraintTop_toTopOf="@id/ivMainBackgroundHeader" />
+
+    <TextView
+        android:id="@+id/tvMainScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dimen_6"
+        android:fontFamily="@font/notosans_medium"
+        android:textColor="@color/white"
+        android:textSize="@dimen/dimen_text_size_18"
+        app:layout_constraintBottom_toBottomOf="@id/ivMainBackgroundScore"
+        app:layout_constraintEnd_toEndOf="@id/ivMainBackgroundScore"
+        app:layout_constraintStart_toStartOf="@id/ivMainBackgroundScore"
+        app:layout_constraintTop_toTopOf="@id/ivMainBackgroundScore"
+        tools:text="30" />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/llMainImage"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/dimen_10"
+        android:background="@drawable/shape_bg_black_stroke_corner_8"
+        android:weightSum="2"
+        app:layout_constraintDimensionRatio="2:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ivMainBackgroundHeader">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/ivMainImageLeft"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:scaleType="centerCrop"
+            app:shapeAppearance="@style/CornerLeft8"
+            tools:src="@drawable/h1_1" />
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/ivMainImageRight"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:scaleType="centerCrop"
+            app:shapeAppearance="@style/CornerRight8"
+            tools:src="@drawable/h1_2" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <View
+        android:layout_width="@dimen/dimen_1"
+        android:layout_height="0dp"
+        android:layout_marginVertical="@dimen/dimen_10"
+        android:background="@color/back_ground_app"
+        app:layout_constraintTop_toTopOf="@id/llMainImage"
+        app:layout_constraintStart_toStartOf="@id/llMainImage"
+        app:layout_constraintBottom_toBottomOf="@id/llMainImage"
+        app:layout_constraintEnd_toEndOf="@id/llMainImage"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvMainResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_height="@dimen/dimen_100"
+        android:layout_marginTop="@dimen/dimen_20"
+        app:layoutManager="com.google.android.flexbox.FlexboxLayoutManager"
+        app:layout_constraintTop_toBottomOf="@id/llMainImage"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvMainOption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/rvMainResult"
+        android:layout_marginTop="@dimen/dimen_40"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

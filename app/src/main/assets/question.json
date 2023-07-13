@@ -1,0 +1,2003 @@
+{"question": [
+    {
+        "id": 1,
+        "singer": "",
+        "firstword": "LẠC",
+        "character": "L_A_C_T_R_O_I",
+        "questionType": 0,
+        "secondword": "TRÔI",
+        "numberCharacter": 7,
+        "wordcomplete": "LẠC TRÔI"
+    },
+    {
+        "id": 2,
+        "singer": "",
+        "firstword": "KHỈ",
+        "character": "K_H_I_K_H_O",
+        "questionType": 0,
+        "secondword": "KHÔ",
+        "numberCharacter": 6,
+        "wordcomplete": "KHỈ KHÔ"
+    },
+    {
+        "id": 3,
+        "singer": "",
+        "firstword": "HỌC",
+        "character": "H_O_C_S_I_N_H",
+        "questionType": 0,
+        "secondword": "XINH",
+        "numberCharacter": 7,
+        "wordcomplete": "HỌC SINH"
+    },
+    {
+        "id": 4,
+        "singer": "",
+        "firstword": "SÓC",
+        "character": "S_O_C_L_O",
+        "questionType": 0,
+        "secondword": "LỌ",
+        "numberCharacter": 5,
+        "wordcomplete": "SÓC LỌ"
+    },
+    {
+        "id": 5,
+        "singer": "",
+        "firstword": "HỔ",
+        "character": "H_O_B_A_O",
+        "questionType": 0,
+        "secondword": "BÁO",
+        "numberCharacter": 5,
+        "wordcomplete": "HỔ BÁO"
+    },
+    {
+        "id": 6,
+        "singer": "",
+        "firstword": "TÌNH",
+        "character": "T_I_N_H_T_U",
+        "questionType": 0,
+        "secondword": "TỨ",
+        "numberCharacter": 6,
+        "wordcomplete": "TÌNH TỨ"
+    },
+    {
+        "id": 7,
+        "singer": "",
+        "firstword": "BAO",
+        "character": "B_A_O_C_O_N_G",
+        "questionType": 0,
+        "secondword": "CÔNG",
+        "numberCharacter": 7,
+        "wordcomplete": "BAO CÔNG"
+    },
+    {
+        "id": 8,
+        "singer": "",
+        "firstword": "KIM",
+        "character": "K_I_M_T_U_Y_E_N",
+        "questionType": 0,
+        "secondword": "TUYẾN",
+        "numberCharacter": 8,
+        "wordcomplete": "KIM TUYẾN"
+    },
+    {
+        "id": 9,
+        "singer": "",
+        "firstword": "KHẨU",
+        "character": "K_H_A_U_T_R_A_N_G",
+        "questionType": 0,
+        "secondword": "TRANG",
+        "numberCharacter": 9,
+        "wordcomplete": "KHẨU TRANG"
+    },
+    {
+        "id": 10,
+        "singer": "",
+        "firstword": "SÀNH",
+        "character": "S_A_N_H_S_O_I",
+        "questionType": 0,
+        "secondword": "SỎI",
+        "numberCharacter": 7,
+        "wordcomplete": "SÀNH SỎI"
+    },
+    {
+        "id": 11,
+        "singer": "",
+        "firstword": "CAO",
+        "character": "C_A_O_D_I_E_M",
+        "questionType": 0,
+        "secondword": "ĐIỂM",
+        "numberCharacter": 7,
+        "wordcomplete": "CAO ĐIỂM"
+    },
+    {
+        "id": 12,
+        "singer": "",
+        "firstword": "BÁNH",
+        "character": "B_A_N_H_K_E_O",
+        "questionType": 0,
+        "secondword": "KẸO",
+        "numberCharacter": 7,
+        "wordcomplete": "BÁNH KẸO"
+    },
+    {
+        "id": 13,
+        "singer": "",
+        "firstword": "CÚC",
+        "character": "C_U_C_A_O",
+        "questionType": 0,
+        "secondword": "ÁO",
+        "numberCharacter": 5,
+        "wordcomplete": "CÚC ÁO"
+    },
+    {
+        "id": 14,
+        "singer": "",
+        "firstword": "ÁO",
+        "character": "A_O_B_O_N_G",
+        "questionType": 0,
+        "secondword": "BÔNG",
+        "numberCharacter": 6,
+        "wordcomplete": "ÁO BÔNG"
+    },
+    {
+        "id": 15,
+        "singer": "",
+        "firstword": "CHUỘT",
+        "character": "C_H_U_O_T_T_U_I",
+        "questionType": 0,
+        "secondword": "TÚI",
+        "numberCharacter": 8,
+        "wordcomplete": "CHUỘT TÚI"
+    },
+    {
+        "id": 16,
+        "singer": "",
+        "firstword": "GIÁN",
+        "character": "G_I_A_N_D_O_A_N",
+        "questionType": 0,
+        "secondword": "ĐOẠN",
+        "numberCharacter": 8,
+        "wordcomplete": "GIÁN ĐOẠN"
+    },
+    {
+        "id": 17,
+        "singer": "",
+        "firstword": "MÈO",
+        "character": "M_E_O_M_U_O_P",
+        "questionType": 0,
+        "secondword": "MƯỚP",
+        "numberCharacter": 7,
+        "wordcomplete": "MÈO MƯỚP"
+    },
+    {
+        "id": 18,
+        "singer": "",
+        "firstword": "CÁ",
+        "character": "C_A_S_A_U",
+        "questionType": 0,
+        "secondword": "SẤU",
+        "numberCharacter": 5,
+        "wordcomplete": "CÁ SẤU"
+    },
+    {
+        "id": 19,
+        "singer": "",
+        "firstword": "NƯỚC",
+        "character": "N_U_O_C_C_O_T",
+        "questionType": 0,
+        "secondword": "CỐT",
+        "numberCharacter": 7,
+        "wordcomplete": "NƯỚC CỐT"
+    },
+    {
+        "id": 20,
+        "singer": "",
+        "firstword": "BAO",
+        "character": "B_A_O_T_H_U_O_C",
+        "questionType": 0,
+        "secondword": "THUỐC",
+        "numberCharacter": 8,
+        "wordcomplete": "BAO THUỐC"
+    },
+    {
+        "id": 21,
+        "singer": "",
+        "firstword": "GIẤY",
+        "character": "G_I_A_Y_A_N",
+        "questionType": 0,
+        "secondword": "ĂN",
+        "numberCharacter": 6,
+        "wordcomplete": "GIẤY ĂN"
+    },
+    {
+        "id": 22,
+        "singer": "",
+        "firstword": "ĐÀN",
+        "character": "D_A_N_T_R_A_N_H",
+        "questionType": 0,
+        "secondword": "TRANH",
+        "numberCharacter": 8,
+        "wordcomplete": "ĐÀN TRANH"
+    },
+    {
+        "id": 23,
+        "singer": "",
+        "firstword": "SAO",
+        "character": "S_A_O_H_O_A",
+        "questionType": 0,
+        "secondword": "HỎA",
+        "numberCharacter": 6,
+        "wordcomplete": "SAO HỎA"
+    },
+    {
+        "id": 24,
+        "singer": "",
+        "firstword": "CAO",
+        "character": "C_A_O_O_C",
+        "questionType": 0,
+        "secondword": "ỐC",
+        "numberCharacter": 5,
+        "wordcomplete": "CAO ỐC"
+    },
+    {
+        "id": 25,
+        "singer": "",
+        "firstword": "MỸ",
+        "character": "M_Y_Q_U_A_N",
+        "questionType": 0,
+        "secondword": "QUAN",
+        "numberCharacter": 6,
+        "wordcomplete": "MỸ QUAN"
+    },
+    {
+        "id": 26,
+        "singer": "",
+        "firstword": "PHÁO",
+        "character": "P_H_A_O_S_A_N_G",
+        "questionType": 0,
+        "secondword": "SÁNG",
+        "numberCharacter": 8,
+        "wordcomplete": "PHÁO SÁNG"
+    },
+    {
+        "id": 27,
+        "singer": "",
+        "firstword": "QUẦN",
+        "character": "Q_U_A_N_B_O",
+        "questionType": 0,
+        "secondword": "BÒ",
+        "numberCharacter": 6,
+        "wordcomplete": "QUẦN BÒ"
+    },
+    {
+        "id": 28,
+        "singer": "",
+        "firstword": "GIÀY",
+        "character": "G_I_A_Y_D_I_N_H",
+        "questionType": 0,
+        "secondword": "ĐINH",
+        "numberCharacter": 8,
+        "wordcomplete": "GIÀY ĐINH"
+    },
+    {
+        "id": 29,
+        "singer": "",
+        "firstword": "TỔ",
+        "character": "T_O_Y_E_N",
+        "questionType": 0,
+        "secondword": "YẾN",
+        "numberCharacter": 5,
+        "wordcomplete": "TỔ YẾN"
+    },
+    {
+        "id": 30,
+        "singer": "",
+        "firstword": "BÚT",
+        "character": "B_U_T_M_U_C",
+        "questionType": 0,
+        "secondword": "MỰC",
+        "numberCharacter": 6,
+        "wordcomplete": "BÚT MỰC"
+    },
+    {
+        "id": 31,
+        "singer": "",
+        "firstword": "MỎ",
+        "character": "M_O_D_A_U",
+        "questionType": 0,
+        "secondword": "DẦU",
+        "numberCharacter": 5,
+        "wordcomplete": "MỎ DẦU"
+    },
+    {
+        "id": 32,
+        "singer": "",
+        "firstword": "CẢNH",
+        "character": "C_A_N_H_C_A_O",
+        "questionType": 0,
+        "secondword": "CÁO",
+        "numberCharacter": 7,
+        "wordcomplete": "CẢNH CÁO"
+    },
+    {
+        "id": 33,
+        "singer": "",
+        "firstword": "LY",
+        "character": "L_Y_T_H_A_N",
+        "questionType": 0,
+        "secondword": "THÂN",
+        "numberCharacter": 6,
+        "wordcomplete": "LY THÂN"
+    },
+    {
+        "id": 34,
+        "singer": "",
+        "firstword": "PHONG",
+        "character": "P_H_O_N_G_T_H_U_Y",
+        "questionType": 0,
+        "secondword": "THỦY",
+        "numberCharacter": 9,
+        "wordcomplete": "PHONG THỦY"
+    },
+    {
+        "id": 35,
+        "singer": "",
+        "firstword": "BÁN",
+        "character": "B_A_N_L_E",
+        "questionType": 0,
+        "secondword": "LẺ",
+        "numberCharacter": 5,
+        "wordcomplete": "BÁN LẺ"
+    },
+    {
+        "id": 36,
+        "singer": "",
+        "firstword": "TRÁI",
+        "character": "T_R_A_I_Y",
+        "questionType": 0,
+        "secondword": "Ý",
+        "numberCharacter": 5,
+        "wordcomplete": "TRÁI Ý"
+    },
+    {
+        "id": 37,
+        "singer": "",
+        "firstword": "HÀ",
+        "character": "H_A_T_I_E_N",
+        "questionType": 0,
+        "secondword": "TIỆN",
+        "numberCharacter": 6,
+        "wordcomplete": "HÀ TIỆN"
+    },
+    {
+        "id": 38,
+        "singer": "",
+        "firstword": "VẠCH",
+        "character": "V_A_C_H_M_A_T",
+        "questionType": 0,
+        "secondword": "MẶT",
+        "numberCharacter": 7,
+        "wordcomplete": "VẠCH MẶT"
+    },
+    {
+        "id": 39,
+        "singer": "",
+        "firstword": "KIỀU",
+        "character": "K_I_E_U_B_A_O",
+        "questionType": 0,
+        "secondword": "BÀO",
+        "numberCharacter": 7,
+        "wordcomplete": "KIỀU BÀO"
+    },
+    {
+        "id": 40,
+        "singer": "",
+        "firstword": "TƯ",
+        "character": "T_U_N_H_A_N",
+        "questionType": 0,
+        "secondword": "NHÂN",
+        "numberCharacter": 6,
+        "wordcomplete": "TƯ NHÂN"
+    },
+    {
+        "id": 41,
+        "singer": "",
+        "firstword": "THẤT",
+        "character": "T_H_A_T_B_A_T",
+        "questionType": 0,
+        "secondword": "BÁT",
+        "numberCharacter": 7,
+        "wordcomplete": "THẤT BÁT"
+    },
+    {
+        "id": 42,
+        "singer": "",
+        "firstword": "TỔ",
+        "character": "T_O_T_O_N_G",
+        "questionType": 0,
+        "secondword": "TÔNG",
+        "numberCharacter": 6,
+        "wordcomplete": "TỔ TÔNG"
+    },
+    {
+        "id": 43,
+        "singer": "",
+        "firstword": "BÚA",
+        "character": "B_U_A_T_A",
+        "questionType": 0,
+        "secondword": "TẠ",
+        "numberCharacter": 5,
+        "wordcomplete": "BÚA TẠ"
+    },
+    {
+        "id": 44,
+        "singer": "",
+        "firstword": "PHẤN",
+        "character": "P_H_A_N_H_O_A",
+        "questionType": 0,
+        "secondword": "HOA",
+        "numberCharacter": 7,
+        "wordcomplete": "PHẤN HOA"
+    },
+    {
+        "id": 45,
+        "singer": "",
+        "firstword": "PHÁ",
+        "character": "P_H_A_L_E",
+        "questionType": 0,
+        "secondword": "LỆ",
+        "numberCharacter": 5,
+        "wordcomplete": "PHÁ LỆ"
+    },
+    {
+        "id": 46,
+        "singer": "",
+        "firstword": "HÀNH",
+        "character": "H_A_N_H_H_A",
+        "questionType": 0,
+        "secondword": "HẠ",
+        "numberCharacter": 6,
+        "wordcomplete": "HÀNH HẠ"
+    },
+    {
+        "id": 47,
+        "singer": "",
+        "firstword": "GA",
+        "character": "G_A_L_A_N_G",
+        "questionType": 0,
+        "secondword": "LĂNG",
+        "numberCharacter": 6,
+        "wordcomplete": "GA LĂNG"
+    },
+    {
+        "id": 48,
+        "singer": "",
+        "firstword": "LẼ",
+        "character": "L_E_P_H_A_I",
+        "questionType": 0,
+        "secondword": "PHẢI",
+        "numberCharacter": 6,
+        "wordcomplete": "LẼ PHẢI"
+    },
+    {
+        "id": 49,
+        "singer": "",
+        "firstword": "ĐIỀU",
+        "character": "D_I_E_U_D_O_N_G",
+        "questionType": 0,
+        "secondword": "ĐỘNG",
+        "numberCharacter": 8,
+        "wordcomplete": "ĐIỀU ĐỘNG"
+    },
+    {
+        "id": 50,
+        "singer": "",
+        "firstword": "MA",
+        "character": "M_A_L_U_C",
+        "questionType": 0,
+        "secondword": "LỰC",
+        "numberCharacter": 5,
+        "wordcomplete": "MA LỰC"
+    },
+    {
+        "id": 51,
+        "singer": "",
+        "firstword": "GIANG",
+        "character": "G_I_A_N_G_S_O_N",
+        "questionType": 0,
+        "secondword": "SƠN",
+        "numberCharacter": 8,
+        "wordcomplete": "GIANG SƠN"
+    },
+    {
+        "id": 52,
+        "singer": "",
+        "firstword": "NGÃ",
+        "character": "N_G_A_B_U_O_C",
+        "questionType": 0,
+        "secondword": "BƯỚC",
+        "numberCharacter": 7,
+        "wordcomplete": "NGÃ BƯỚC"
+    },
+    {
+        "id": 53,
+        "singer": "",
+        "firstword": "BÁNH",
+        "character": "B_A_N_H_H_O_I",
+        "questionType": 0,
+        "secondword": "HỎI",
+        "numberCharacter": 7,
+        "wordcomplete": "BÁNH HỎI"
+    },
+    {
+        "id": 54,
+        "singer": "",
+        "firstword": "BI",
+        "character": "B_I_T_H_A_M",
+        "questionType": 0,
+        "secondword": "THẢM",
+        "numberCharacter": 6,
+        "wordcomplete": "BI THẢM"
+    },
+    {
+        "id": 55,
+        "singer": "",
+        "firstword": "BÁO",
+        "character": "B_A_O_G_I_A",
+        "questionType": 0,
+        "secondword": "GIÁ",
+        "numberCharacter": 6,
+        "wordcomplete": "BÁO GIÁ"
+    },
+    {
+        "id": 56,
+        "singer": "",
+        "firstword": "MẮC",
+        "character": "M_A_C_C_U_O_I",
+        "questionType": 0,
+        "secondword": "CƯỜI",
+        "numberCharacter": 7,
+        "wordcomplete": "MẮC CƯỜI"
+    },
+    {
+        "id": 57,
+        "singer": "",
+        "firstword": "KHOAI",
+        "character": "K_H_O_A_I_S_O",
+        "questionType": 0,
+        "secondword": "SỌ",
+        "numberCharacter": 7,
+        "wordcomplete": "KHOAI SỌ"
+    },
+    {
+        "id": 58,
+        "singer": "",
+        "firstword": "DẦU",
+        "character": "D_A_U_H_O_A",
+        "questionType": 0,
+        "secondword": "HỎA",
+        "numberCharacter": 6,
+        "wordcomplete": "DẦU HỎA"
+    },
+    {
+        "id": 59,
+        "singer": "",
+        "firstword": "PHÒNG",
+        "character": "P_H_O_N_G_C_H_A_Y",
+        "questionType": 0,
+        "secondword": "CHÁY",
+        "numberCharacter": 9,
+        "wordcomplete": "PHÒNG CHÁY"
+    },
+    {
+        "id": 60,
+        "singer": "",
+        "firstword": "THỎ",
+        "character": "T_H_O_D_E",
+        "questionType": 0,
+        "secondword": "ĐẾ",
+        "numberCharacter": 5,
+        "wordcomplete": "THỎ ĐẾ"
+    },
+    {
+        "id": 61,
+        "singer": "",
+        "firstword": "SÁT",
+        "character": "S_A_T_S_A_O",
+        "questionType": 0,
+        "secondword": "SAO",
+        "numberCharacter": 6,
+        "wordcomplete": "SÁT SAO"
+    },
+    {
+        "id": 62,
+        "singer": "",
+        "firstword": "LY",
+        "character": "L_Y_H_O_N",
+        "questionType": 0,
+        "secondword": "HÔN",
+        "numberCharacter": 5,
+        "wordcomplete": "LY HÔN"
+    },
+    {
+        "id": 63,
+        "singer": "",
+        "firstword": "THƯƠNG",
+        "character": "T_H_U_O_N_G_T_A_M",
+        "questionType": 0,
+        "secondword": "TÂM",
+        "numberCharacter": 9,
+        "wordcomplete": "THƯƠNG TÂM"
+    },
+    {
+        "id": 64,
+        "singer": "",
+        "firstword": "THÀNH",
+        "character": "T_H_A_N_H_T_H_I",
+        "questionType": 0,
+        "secondword": "THỊ",
+        "numberCharacter": 8,
+        "wordcomplete": "THÀNH THỊ"
+    },
+    {
+        "id": 65,
+        "singer": "",
+        "firstword": "BẠCH",
+        "character": "B_A_C_H_K_I_M",
+        "questionType": 0,
+        "secondword": "KIM",
+        "numberCharacter": 7,
+        "wordcomplete": "BẠCH KIM"
+    },
+    {
+        "id": 66,
+        "singer": "",
+        "firstword": "ĐÔNG",
+        "character": "D_O_N_G_Y",
+        "questionType": 0,
+        "secondword": "Y",
+        "numberCharacter": 5,
+        "wordcomplete": "ĐÔNG Y"
+    },
+    {
+        "id": 67,
+        "singer": "",
+        "firstword": "CỨNG",
+        "character": "C_U_N_G_C_A_P",
+        "questionType": 0,
+        "secondword": "CÁP",
+        "numberCharacter": 7,
+        "wordcomplete": "CỨNG CÁP"
+    },
+    {
+        "id": 68,
+        "singer": "",
+        "firstword": "NHÂN",
+        "character": "N_H_A_N_Q_U_A",
+        "questionType": 0,
+        "secondword": "QUẢ",
+        "numberCharacter": 7,
+        "wordcomplete": "NHÂN QUẢ"
+    },
+    {
+        "id": 69,
+        "singer": "",
+        "firstword": "NHẢY",
+        "character": "N_H_A_Y_D_U",
+        "questionType": 0,
+        "secondword": "DÙ",
+        "numberCharacter": 6,
+        "wordcomplete": "NHẢY DÙ"
+    },
+    {
+        "id": 70,
+        "singer": "",
+        "firstword": "ĐÁNH",
+        "character": "D_A_N_H_V_O_N_G",
+        "questionType": 0,
+        "secondword": "VÕNG",
+        "numberCharacter": 8,
+        "wordcomplete": "ĐÁNH VÕNG"
+    },
+    {
+        "id": 71,
+        "singer": "",
+        "firstword": "VÀNG",
+        "character": "V_A_N_G_M_A",
+        "questionType": 0,
+        "secondword": "MÃ",
+        "numberCharacter": 6,
+        "wordcomplete": "VÀNG MÃ"
+    },
+    {
+        "id": 72,
+        "singer": "",
+        "firstword": "BIẾN",
+        "character": "B_I_E_N_T_H_A_I",
+        "questionType": 0,
+        "secondword": "THÁI",
+        "numberCharacter": 8,
+        "wordcomplete": "BIẾN THÁI"
+    },
+    {
+        "id": 73,
+        "singer": "",
+        "firstword": "MÍT",
+        "character": "M_I_T_U_O_T",
+        "questionType": 0,
+        "secondword": "ƯỚT",
+        "numberCharacter": 6,
+        "wordcomplete": "MÍT ƯỚT"
+    },
+    {
+        "id": 74,
+        "singer": "",
+        "firstword": "ĐÀN",
+        "character": "D_A_N_D_A",
+        "questionType": 0,
+        "secondword": "ĐÁ",
+        "numberCharacter": 5,
+        "wordcomplete": "ĐÀN ĐÁ"
+    },
+    {
+        "id": 75,
+        "singer": "",
+        "firstword": "KHĂN",
+        "character": "K_H_A_N_T_A_Y",
+        "questionType": 0,
+        "secondword": "TAY",
+        "numberCharacter": 7,
+        "wordcomplete": "KHĂN TAY"
+    },
+    {
+        "id": 76,
+        "singer": "",
+        "firstword": "ĐIỀU",
+        "character": "D_I_E_U_H_A_N_H",
+        "questionType": 0,
+        "secondword": "HÀNH",
+        "numberCharacter": 8,
+        "wordcomplete": "ĐIỀU HÀNH"
+    },
+    {
+        "id": 77,
+        "singer": "",
+        "firstword": "CÁO",
+        "character": "C_A_O_G_I_A_C",
+        "questionType": 0,
+        "secondword": "GIÁC",
+        "numberCharacter": 7,
+        "wordcomplete": "CÁO GIÁC"
+    },
+    {
+        "id": 78,
+        "singer": "",
+        "firstword": "BÔNG",
+        "character": "B_O_N_G_T_A_I",
+        "questionType": 0,
+        "secondword": "TAI",
+        "numberCharacter": 7,
+        "wordcomplete": "BÔNG TAI"
+    },
+    {
+        "id": 79,
+        "singer": "",
+        "firstword": "BÁNH",
+        "character": "B_A_N_H_B_A_O",
+        "questionType": 0,
+        "secondword": "BAO",
+        "numberCharacter": 7,
+        "wordcomplete": "BÁNH BAO"
+    },
+    {
+        "id": 80,
+        "singer": "",
+        "firstword": "CÂU",
+        "character": "C_A_U_G_I_O",
+        "questionType": 0,
+        "secondword": "GIỜ",
+        "numberCharacter": 6,
+        "wordcomplete": "CÂU GIỜ"
+    },
+    {
+        "id": 81,
+        "singer": "",
+        "firstword": "MẬT",
+        "character": "M_A_T_B_A_O",
+        "questionType": 0,
+        "secondword": "BÁO",
+        "numberCharacter": 6,
+        "wordcomplete": "MẬT BÁO"
+    },
+    {
+        "id": 82,
+        "singer": "",
+        "firstword": "LẠC",
+        "character": "L_A_C_H_A_U",
+        "questionType": 0,
+        "secondword": "HẬU",
+        "numberCharacter": 6,
+        "wordcomplete": "LẠC HẬU"
+    },
+    {
+        "id": 83,
+        "singer": "",
+        "firstword": "HỒNG",
+        "character": "H_O_N_G_H_A_O",
+        "questionType": 0,
+        "secondword": "HÀO",
+        "numberCharacter": 7,
+        "wordcomplete": "HỒNG HÀO"
+    },
+    {
+        "id": 84,
+        "singer": "",
+        "firstword": "CAO",
+        "character": "C_A_O_S_I_E_U",
+        "questionType": 0,
+        "secondword": "SIÊU",
+        "numberCharacter": 7,
+        "wordcomplete": "CAO SIÊU"
+    },
+    {
+        "id": 85,
+        "singer": "",
+        "firstword": "BÒ",
+        "character": "B_O_S_U_A",
+        "questionType": 0,
+        "secondword": "SỮA",
+        "numberCharacter": 5,
+        "wordcomplete": "BÒ SỮA"
+    },
+    {
+        "id": 86,
+        "singer": "",
+        "firstword": "ĐÁNH",
+        "character": "D_A_N_H_B_O_N_G",
+        "questionType": 0,
+        "secondword": "BÓNG",
+        "numberCharacter": 8,
+        "wordcomplete": "ĐÁNH BÓNG"
+    },
+    {
+        "id": 87,
+        "singer": "",
+        "firstword": "GÀ",
+        "character": "G_A_M_O",
+        "questionType": 0,
+        "secondword": "MỜ",
+        "numberCharacter": 4,
+        "wordcomplete": "GÀ MỜ"
+    },
+    {
+        "id": 88,
+        "singer": "",
+        "firstword": "BOM",
+        "character": "B_O_M_B_I",
+        "questionType": 0,
+        "secondword": "BI",
+        "numberCharacter": 5,
+        "wordcomplete": "BOM BI"
+    },
+    {
+        "id": 89,
+        "singer": "",
+        "firstword": "SUỐI",
+        "character": "S_U_O_I_V_A_N_G",
+        "questionType": 0,
+        "secondword": "VÀNG",
+        "numberCharacter": 8,
+        "wordcomplete": "SUỐI VÀNG"
+    },
+    {
+        "id": 90,
+        "singer": "",
+        "firstword": "TẮM",
+        "character": "T_A_M_T_I_E_N",
+        "questionType": 0,
+        "secondword": "TIÊN",
+        "numberCharacter": 7,
+        "wordcomplete": "TẮM TIÊN"
+    },
+    {
+        "id": 91,
+        "singer": "",
+        "firstword": "MÓC",
+        "character": "M_O_C_N_G_O_A_C",
+        "questionType": 0,
+        "secondword": "NGOẶC",
+        "numberCharacter": 8,
+        "wordcomplete": "MÓC NGOẶC"
+    },
+    {
+        "id": 92,
+        "singer": "",
+        "firstword": "QUÂN",
+        "character": "Q_U_A_N_Y",
+        "questionType": 0,
+        "secondword": "Y",
+        "numberCharacter": 5,
+        "wordcomplete": "QUÂN Y"
+    },
+    {
+        "id": 93,
+        "singer": "",
+        "firstword": "MẪU",
+        "character": "M_A_U_G_I_A_O",
+        "questionType": 0,
+        "secondword": "GIÁO",
+        "numberCharacter": 7,
+        "wordcomplete": "MẪU GIÁO"
+    },
+    {
+        "id": 94,
+        "singer": "",
+        "firstword": "HÀO",
+        "character": "H_A_O_P_H_O_N_G",
+        "questionType": 0,
+        "secondword": "PHÓNG",
+        "numberCharacter": 8,
+        "wordcomplete": "HÀO PHÓNG"
+    },
+    {
+        "id": 95,
+        "singer": "",
+        "firstword": "CAM",
+        "character": "C_A_M_T_H_A_O",
+        "questionType": 0,
+        "secondword": "THẢO",
+        "numberCharacter": 7,
+        "wordcomplete": "CAM THẢO"
+    },
+    {
+        "id": 96,
+        "singer": "",
+        "firstword": "MÃ",
+        "character": "M_A_N_A_O",
+        "questionType": 0,
+        "secondword": "NÃO",
+        "numberCharacter": 5,
+        "wordcomplete": "MÃ NÃO"
+    },
+    {
+        "id": 97,
+        "singer": "",
+        "firstword": "THUỐC",
+        "character": "T_H_U_O_C_T_A_Y",
+        "questionType": 0,
+        "secondword": "TÂY",
+        "numberCharacter": 8,
+        "wordcomplete": "THUỐC TÂY"
+    },
+    {
+        "id": 98,
+        "singer": "",
+        "firstword": "CAM",
+        "character": "C_A_M_E_P",
+        "questionType": 0,
+        "secondword": "ÉP",
+        "numberCharacter": 5,
+        "wordcomplete": "CAM ÉP"
+    },
+    {
+        "id": 99,
+        "singer": "",
+        "firstword": "KHÓA",
+        "character": "K_H_O_A_C_O",
+        "questionType": 0,
+        "secondword": "CỔ",
+        "numberCharacter": 6,
+        "wordcomplete": "KHÓA CỔ"
+    },
+    {
+        "id": 100,
+        "singer": "",
+        "firstword": "TẮT",
+        "character": "T_A_T_D_U_O_N_G",
+        "questionType": 0,
+        "secondword": "ĐƯỜNG",
+        "numberCharacter": 8,
+        "wordcomplete": "TẮT ĐƯỜNG"
+    },
+    {
+        "id": 101,
+        "singer": "",
+        "firstword": "ĐẦM",
+        "character": "D_A_M_S_E_N",
+        "questionType": 0,
+        "secondword": "SEN",
+        "numberCharacter": 6,
+        "wordcomplete": "ĐẦM SEN"
+    },
+    {
+        "id": 102,
+        "singer": "",
+        "firstword": "CUNG",
+        "character": "C_U_N_G_D_I_E_N",
+        "questionType": 0,
+        "secondword": "ĐIỆN",
+        "numberCharacter": 8,
+        "wordcomplete": "CUNG ĐIỆN"
+    },
+    {
+        "id": 103,
+        "singer": "",
+        "firstword": "BÚT",
+        "character": "B_U_T_B_I",
+        "questionType": 0,
+        "secondword": "BI",
+        "numberCharacter": 5,
+        "wordcomplete": "BÚT BI"
+    },
+    {
+        "id": 104,
+        "singer": "",
+        "firstword": "MUỐI",
+        "character": "M_U_O_I_M_A_T",
+        "questionType": 0,
+        "secondword": "MẶT",
+        "numberCharacter": 7,
+        "wordcomplete": "MUỐI MẶT"
+    },
+    {
+        "id": 105,
+        "singer": "",
+        "firstword": "BÔNG",
+        "character": "B_O_N_G_L_A_U",
+        "questionType": 0,
+        "secondword": "LAU",
+        "numberCharacter": 7,
+        "wordcomplete": "BÔNG LAU"
+    },
+    {
+        "id": 106,
+        "singer": "",
+        "firstword": "CẦM",
+        "character": "C_A_M_D_A_U",
+        "questionType": 0,
+        "secondword": "ĐẦU",
+        "numberCharacter": 6,
+        "wordcomplete": "CẦM ĐẦU"
+    },
+    {
+        "id": 107,
+        "singer": "",
+        "firstword": "BẢNG",
+        "character": "B_A_N_G_H_I_E_U",
+        "questionType": 0,
+        "secondword": "HIỆU",
+        "numberCharacter": 8,
+        "wordcomplete": "BẢNG HIỆU"
+    },
+    {
+        "id": 108,
+        "singer": "",
+        "firstword": "YẾU",
+        "character": "Y_E_U_D_U_O_I",
+        "questionType": 0,
+        "secondword": "ĐUỐI",
+        "numberCharacter": 7,
+        "wordcomplete": "YẾU ĐUỐI"
+    },
+    {
+        "id": 109,
+        "singer": "",
+        "firstword": "BỐ",
+        "character": "B_O_C_A_O",
+        "questionType": 0,
+        "secondword": "CÁO",
+        "numberCharacter": 5,
+        "wordcomplete": "BỐ CÁO"
+    },
+    {
+        "id": 110,
+        "singer": "",
+        "firstword": "BÀN",
+        "character": "B_A_N_C_A_I",
+        "questionType": 0,
+        "secondword": "CÃI",
+        "numberCharacter": 6,
+        "wordcomplete": "BÀN CÃI"
+    },
+    {
+        "id": 111,
+        "singer": "",
+        "firstword": "KÍNH",
+        "character": "K_I_N_H_B_A_O",
+        "questionType": 0,
+        "secondword": "BÁO",
+        "numberCharacter": 7,
+        "wordcomplete": "KÍNH BÁO"
+    },
+    {
+        "id": 112,
+        "singer": "",
+        "firstword": "BẮP",
+        "character": "B_A_P_C_H_A_N",
+        "questionType": 0,
+        "secondword": "CHÂN",
+        "numberCharacter": 7,
+        "wordcomplete": "BẮP CHÂN"
+    },
+    {
+        "id": 113,
+        "singer": "",
+        "firstword": "BÁNH",
+        "character": "B_A_N_H_X_O_P",
+        "questionType": 0,
+        "secondword": "XỐP",
+        "numberCharacter": 7,
+        "wordcomplete": "BÁNH XỐP"
+    },
+    {
+        "id": 114,
+        "singer": "",
+        "firstword": "NHÀ",
+        "character": "N_H_A_K_I_N_H",
+        "questionType": 0,
+        "secondword": "KÍNH",
+        "numberCharacter": 7,
+        "wordcomplete": "NHÀ KÍNH"
+    },
+    {
+        "id": 115,
+        "singer": "",
+        "firstword": "TIÊU",
+        "character": "T_I_E_U_D_I_E_U",
+        "questionType": 0,
+        "secondword": "ĐIỀU",
+        "numberCharacter": 8,
+        "wordcomplete": "TIÊU ĐIỀU"
+    },
+    {
+        "id": 116,
+        "singer": "",
+        "firstword": "CA",
+        "character": "C_A_K_H_U_C",
+        "questionType": 0,
+        "secondword": "KHÚC",
+        "numberCharacter": 6,
+        "wordcomplete": "CA KHÚC"
+    },
+    {
+        "id": 117,
+        "singer": "",
+        "firstword": "NÓNG",
+        "character": "N_O_N_G_M_A_Y",
+        "questionType": 0,
+        "secondword": "MÁY",
+        "numberCharacter": 7,
+        "wordcomplete": "NÓNG MÁY"
+    },
+    {
+        "id": 118,
+        "singer": "",
+        "firstword": "CÂN",
+        "character": "C_A_N_D_O_I",
+        "questionType": 0,
+        "secondword": "ĐỐI",
+        "numberCharacter": 6,
+        "wordcomplete": "CÂN ĐỐI"
+    },
+    {
+        "id": 119,
+        "singer": "",
+        "firstword": "BÀN",
+        "character": "B_A_N_G_I_A_O",
+        "questionType": 0,
+        "secondword": "GIAO",
+        "numberCharacter": 7,
+        "wordcomplete": "BÀN GIAO"
+    },
+    {
+        "id": 120,
+        "singer": "",
+        "firstword": "BÒ",
+        "character": "B_O_S_A_T",
+        "questionType": 0,
+        "secondword": "SÁT",
+        "numberCharacter": 5,
+        "wordcomplete": "BÒ SÁT"
+    },
+    {
+        "id": 121,
+        "singer": "",
+        "firstword": "BÓNG",
+        "character": "B_O_N_G_L_O_N",
+        "questionType": 0,
+        "secondword": "LỘN",
+        "numberCharacter": 7,
+        "wordcomplete": "BÓNG LỘN"
+    },
+    {
+        "id": 122,
+        "singer": "",
+        "firstword": "LÒNG",
+        "character": "L_O_N_G_D_A_T",
+        "questionType": 0,
+        "secondword": "ĐẤT",
+        "numberCharacter": 7,
+        "wordcomplete": "LÒNG ĐẤT"
+    },
+    {
+        "id": 123,
+        "singer": "",
+        "firstword": "CÁO",
+        "character": "C_A_O_L_A_O",
+        "questionType": 0,
+        "secondword": "LÃO",
+        "numberCharacter": 6,
+        "wordcomplete": "CÁO LÃO"
+    },
+    {
+        "id": 124,
+        "singer": "",
+        "firstword": "CÁNH",
+        "character": "C_A_N_H_T_A_Y",
+        "questionType": 0,
+        "secondword": "TAY",
+        "numberCharacter": 7,
+        "wordcomplete": "CÁNH TAY"
+    },
+    {
+        "id": 125,
+        "singer": "",
+        "firstword": "BẰNG",
+        "character": "B_A_N_G_L_O_N_G",
+        "questionType": 0,
+        "secondword": "LÒNG",
+        "numberCharacter": 8,
+        "wordcomplete": "BẰNG LÒNG"
+    },
+    {
+        "id": 126,
+        "singer": "",
+        "firstword": "RĂNG",
+        "character": "R_A_N_G_C_U_A",
+        "questionType": 0,
+        "secondword": "CƯA",
+        "numberCharacter": 7,
+        "wordcomplete": "RĂNG CƯA"
+    },
+    {
+        "id": 127,
+        "singer": "",
+        "firstword": "TAI",
+        "character": "T_A_I_B_I_E_N",
+        "questionType": 0,
+        "secondword": "BIẾN",
+        "numberCharacter": 7,
+        "wordcomplete": "TAI BIẾN"
+    },
+    {
+        "id": 128,
+        "singer": "",
+        "firstword": "ĐỎ",
+        "character": "D_O_M_A_T",
+        "questionType": 0,
+        "secondword": "MẶT",
+        "numberCharacter": 5,
+        "wordcomplete": "ĐỎ MẶT"
+    },
+    {
+        "id": 129,
+        "singer": "",
+        "firstword": "THỊ",
+        "character": "T_H_I_P_H_I",
+        "questionType": 0,
+        "secondword": "PHI",
+        "numberCharacter": 6,
+        "wordcomplete": "THỊ PHI"
+    },
+    {
+        "id": 130,
+        "singer": "",
+        "firstword": "NHẪN",
+        "character": "N_H_A_N_T_A_M",
+        "questionType": 0,
+        "secondword": "TÂM",
+        "numberCharacter": 7,
+        "wordcomplete": "NHẪN TÂM"
+    },
+    {
+        "id": 131,
+        "singer": "",
+        "firstword": "ĐẦU",
+        "character": "D_A_U_D_O_C",
+        "questionType": 0,
+        "secondword": "ĐỘC",
+        "numberCharacter": 6,
+        "wordcomplete": "ĐẦU ĐỘC"
+    },
+    {
+        "id": 132,
+        "singer": "",
+        "firstword": "GIẢI",
+        "character": "G_I_A_I_T_H_I_C_H",
+        "questionType": 0,
+        "secondword": "THÍCH",
+        "numberCharacter": 9,
+        "wordcomplete": "GIẢI THÍCH"
+    },
+    {
+        "id": 133,
+        "singer": "",
+        "firstword": "CẢNH",
+        "character": "C_A_N_H_G_I_A_C",
+        "questionType": 0,
+        "secondword": "GIÁC",
+        "numberCharacter": 8,
+        "wordcomplete": "CẢNH GIÁC"
+    },
+    {
+        "id": 134,
+        "singer": "",
+        "firstword": "LONG",
+        "character": "L_O_N_G_T_R_O_N_G",
+        "questionType": 0,
+        "secondword": "TRỌNG",
+        "numberCharacter": 9,
+        "wordcomplete": "LONG TRỌNG"
+    },
+    {
+        "id": 135,
+        "singer": "",
+        "firstword": "NƯỚC",
+        "character": "N_U_O_C_H_O_A",
+        "questionType": 0,
+        "secondword": "HOA",
+        "numberCharacter": 7,
+        "wordcomplete": "NƯỚC HOA"
+    },
+    {
+        "id": 136,
+        "singer": "",
+        "firstword": "ĐIỀU",
+        "character": "D_I_E_U_K_I_E_N",
+        "questionType": 0,
+        "secondword": "KIỆN",
+        "numberCharacter": 8,
+        "wordcomplete": "ĐIỀU KIỆN"
+    },
+    {
+        "id": 137,
+        "singer": "",
+        "firstword": "NỔI",
+        "character": "N_O_I_B_A_T",
+        "questionType": 0,
+        "secondword": "BẬT",
+        "numberCharacter": 6,
+        "wordcomplete": "NỔI BẬT"
+    },
+    {
+        "id": 138,
+        "singer": "",
+        "firstword": "SAN",
+        "character": "S_A_N_S_E",
+        "questionType": 0,
+        "secondword": "SẺ",
+        "numberCharacter": 5,
+        "wordcomplete": "SAN SẺ"
+    },
+    {
+        "id": 139,
+        "singer": "",
+        "firstword": "YÊN",
+        "character": "Y_E_N_T_H_A_N",
+        "questionType": 0,
+        "secondword": "THÂN",
+        "numberCharacter": 7,
+        "wordcomplete": "YÊN THÂN"
+    },
+    {
+        "id": 140,
+        "singer": "",
+        "firstword": "LÂM",
+        "character": "L_A_M_L_Y",
+        "questionType": 0,
+        "secondword": "LY",
+        "numberCharacter": 5,
+        "wordcomplete": "LÂM LY"
+    },
+    {
+        "id": 141,
+        "singer": "",
+        "firstword": "ĐÔNG",
+        "character": "D_O_N_G_D_U_C",
+        "questionType": 0,
+        "secondword": "ĐÚC",
+        "numberCharacter": 7,
+        "wordcomplete": "ĐÔNG ĐÚC"
+    },
+    {
+        "id": 142,
+        "singer": "",
+        "firstword": "PHÓNG",
+        "character": "P_H_O_N_G_H_O_A",
+        "questionType": 0,
+        "secondword": "HỎA",
+        "numberCharacter": 8,
+        "wordcomplete": "PHÓNG HỎA"
+    },
+    {
+        "id": 143,
+        "singer": "",
+        "firstword": "THÀNH",
+        "character": "T_H_A_N_H_Q_U_A",
+        "questionType": 0,
+        "secondword": "QUẢ",
+        "numberCharacter": 8,
+        "wordcomplete": "THÀNH QUẢ"
+    },
+    {
+        "id": 144,
+        "singer": "",
+        "firstword": "MẪU",
+        "character": "M_A_U_M_U_C",
+        "questionType": 0,
+        "secondword": "MỰC",
+        "numberCharacter": 6,
+        "wordcomplete": "MẪU MỰC"
+    },
+    {
+        "id": 145,
+        "singer": "",
+        "firstword": "CÔNG",
+        "character": "C_O_N_G_V_I_E_N",
+        "questionType": 0,
+        "secondword": "VIÊN",
+        "numberCharacter": 8,
+        "wordcomplete": "CÔNG VIÊN"
+    },
+    {
+        "id": 146,
+        "singer": "",
+        "firstword": "BÍ",
+        "character": "B_I_T_H_U",
+        "questionType": 0,
+        "secondword": "THƯ",
+        "numberCharacter": 5,
+        "wordcomplete": "BÍ THƯ"
+    },
+    {
+        "id": 147,
+        "singer": "",
+        "firstword": "HẰNG",
+        "character": "H_A_N_G_S_O",
+        "questionType": 0,
+        "secondword": "SỐ",
+        "numberCharacter": 6,
+        "wordcomplete": "HẰNG SỐ"
+    },
+    {
+        "id": 148,
+        "singer": "",
+        "firstword": "CHÀO",
+        "character": "C_H_A_O_H_O_I",
+        "questionType": 0,
+        "secondword": "HỎI",
+        "numberCharacter": 7,
+        "wordcomplete": "CHÀO HỎI"
+    },
+    {
+        "id": 149,
+        "singer": "",
+        "firstword": "TRỰC",
+        "character": "T_R_U_C_N_H_A_T",
+        "questionType": 0,
+        "secondword": "NHẬT",
+        "numberCharacter": 8,
+        "wordcomplete": "TRỰC NHẬT"
+    },
+    {
+        "id": 150,
+        "singer": "",
+        "firstword": "PHI",
+        "character": "P_H_I_T_R_U_O_N_G",
+        "questionType": 0,
+        "secondword": "TRƯỜNG",
+        "numberCharacter": 9,
+        "wordcomplete": "PHI TRƯỜNG"
+    },
+    {
+        "id": 151,
+        "singer": "",
+        "firstword": "NGỌC",
+        "character": "N_G_O_C_N_G_A",
+        "questionType": 0,
+        "secondword": "NGÀ",
+        "numberCharacter": 7,
+        "wordcomplete": "NGỌC NGÀ"
+    },
+    {
+        "id": 152,
+        "singer": "",
+        "firstword": "TÂM",
+        "character": "T_A_M_H_U_Y_E_T",
+        "questionType": 0,
+        "secondword": "HUYẾT",
+        "numberCharacter": 8,
+        "wordcomplete": "TÂM HUYẾT"
+    },
+    {
+        "id": 153,
+        "singer": "",
+        "firstword": "NÓNG",
+        "character": "N_O_N_G_T_I_N_H",
+        "questionType": 0,
+        "secondword": "TÍNH",
+        "numberCharacter": 8,
+        "wordcomplete": "NÓNG TÍNH"
+    },
+    {
+        "id": 154,
+        "singer": "",
+        "firstword": "MẠNG",
+        "character": "M_A_N_G_L_U_O_I",
+        "questionType": 0,
+        "secondword": "LƯỚI",
+        "numberCharacter": 8,
+        "wordcomplete": "MẠNG LƯỚI"
+    },
+    {
+        "id": 155,
+        "singer": "",
+        "firstword": "KÍNH",
+        "character": "K_I_N_H_T_R_O_N_G",
+        "questionType": 0,
+        "secondword": "TRỌNG",
+        "numberCharacter": 9,
+        "wordcomplete": "KÍNH TRỌNG"
+    },
+    {
+        "id": 156,
+        "singer": "",
+        "firstword": "MÃ",
+        "character": "M_A_S_O",
+        "questionType": 0,
+        "secondword": "SỐ",
+        "numberCharacter": 4,
+        "wordcomplete": "MÃ SỐ"
+    },
+    {
+        "id": 157,
+        "singer": "",
+        "firstword": "VÀNG",
+        "character": "V_A_N_G_S_O_N",
+        "questionType": 0,
+        "secondword": "SON",
+        "numberCharacter": 7,
+        "wordcomplete": "VÀNG SON"
+    },
+    {
+        "id": 158,
+        "singer": "",
+        "firstword": "HẠ",
+        "character": "H_A_C_A_N_H",
+        "questionType": 0,
+        "secondword": "CÁNH",
+        "numberCharacter": 6,
+        "wordcomplete": "HẠ CÁNH"
+    },
+    {
+        "id": 159,
+        "singer": "",
+        "firstword": "TINH",
+        "character": "T_I_N_H_B_I_N_H",
+        "questionType": 0,
+        "secondword": "BINH",
+        "numberCharacter": 8,
+        "wordcomplete": "TINH BINH"
+    },
+    {
+        "id": 160,
+        "singer": "",
+        "firstword": "BỆNH",
+        "character": "B_E_N_H_N_H_A_N",
+        "questionType": 0,
+        "secondword": "NHÂN",
+        "numberCharacter": 8,
+        "wordcomplete": "BỆNH NHÂN"
+    },
+    {
+        "id": 161,
+        "singer": "",
+        "firstword": "BAO",
+        "character": "B_A_O_C_H_E",
+        "questionType": 0,
+        "secondword": "CHE",
+        "numberCharacter": 6,
+        "wordcomplete": "BAO CHE"
+    },
+    {
+        "id": 162,
+        "singer": "",
+        "firstword": "THU",
+        "character": "T_H_U_N_G_A_N",
+        "questionType": 0,
+        "secondword": "NGÂN",
+        "numberCharacter": 7,
+        "wordcomplete": "THU NGÂN"
+    },
+    {
+        "id": 163,
+        "singer": "",
+        "firstword": "THÂN",
+        "character": "T_H_A_N_H_I_N_H",
+        "questionType": 0,
+        "secondword": "HÌNH",
+        "numberCharacter": 8,
+        "wordcomplete": "THÂN HÌNH"
+    },
+    {
+        "id": 164,
+        "singer": "",
+        "firstword": "CƠ",
+        "character": "C_O_M_A_T",
+        "questionType": 0,
+        "secondword": "MẬT",
+        "numberCharacter": 5,
+        "wordcomplete": "CƠ MẬT"
+    },
+    {
+        "id": 165,
+        "singer": "",
+        "firstword": "THỰC",
+        "character": "T_H_U_C_H_A_N_H",
+        "questionType": 0,
+        "secondword": "HÀNH",
+        "numberCharacter": 8,
+        "wordcomplete": "THỰC HÀNH"
+    },
+    {
+        "id": 166,
+        "singer": "",
+        "firstword": "TIỂU",
+        "character": "T_I_E_U_S_U",
+        "questionType": 0,
+        "secondword": "SỬ",
+        "numberCharacter": 6,
+        "wordcomplete": "TIỂU SỬ"
+    },
+    {
+        "id": 167,
+        "singer": "",
+        "firstword": "ĐÁP",
+        "character": "D_A_P_S_O",
+        "questionType": 0,
+        "secondword": "SỐ",
+        "numberCharacter": 5,
+        "wordcomplete": "ĐÁP SỐ"
+    },
+    {
+        "id": 168,
+        "singer": "",
+        "firstword": "TRỐNG",
+        "character": "T_R_O_N_G_V_A_N_G",
+        "questionType": 0,
+        "secondword": "VẮNG",
+        "numberCharacter": 9,
+        "wordcomplete": "TRỐNG VẮNG"
+    },
+    {
+        "id": 169,
+        "singer": "",
+        "firstword": "THÀNH",
+        "character": "T_H_A_N_H_T_I_C_H",
+        "questionType": 0,
+        "secondword": "TÍCH",
+        "numberCharacter": 9,
+        "wordcomplete": "THÀNH TÍCH"
+    },
+    {
+        "id": 170,
+        "singer": "",
+        "firstword": "CẦU",
+        "character": "C_A_U_C_A_N_H",
+        "questionType": 0,
+        "secondword": "CẠNH",
+        "numberCharacter": 7,
+        "wordcomplete": "CẦU CẠNH"
+    },
+    {
+        "id": 171,
+        "singer": "",
+        "firstword": "TÔN",
+        "character": "T_O_N_S_U_N_G",
+        "questionType": 0,
+        "secondword": "SÙNG",
+        "numberCharacter": 7,
+        "wordcomplete": "TÔN SÙNG"
+    },
+    {
+        "id": 172,
+        "singer": "",
+        "firstword": "MẪU",
+        "character": "M_A_U_M_A",
+        "questionType": 0,
+        "secondword": "MÃ",
+        "numberCharacter": 5,
+        "wordcomplete": "MẪU MÃ"
+    },
+    {
+        "id": 173,
+        "singer": "",
+        "firstword": "SÔI",
+        "character": "S_O_I_N_O_I",
+        "questionType": 0,
+        "secondword": "NỔI",
+        "numberCharacter": 6,
+        "wordcomplete": "SÔI NỔI"
+    },
+    {
+        "id": 174,
+        "singer": "",
+        "firstword": "BÁN",
+        "character": "B_A_N_C_H_A_Y",
+        "questionType": 0,
+        "secondword": "CHẠY",
+        "numberCharacter": 7,
+        "wordcomplete": "BÁN CHẠY"
+    },
+    {
+        "id": 175,
+        "singer": "",
+        "firstword": "TẤT",
+        "character": "T_A_T_T_H_A_N_G",
+        "questionType": 0,
+        "secondword": "THẮNG",
+        "numberCharacter": 8,
+        "wordcomplete": "TẤT THẮNG"
+    },
+    {
+        "id": 176,
+        "singer": "",
+        "firstword": "ĐA",
+        "character": "D_A_T_A",
+        "questionType": 0,
+        "secondword": "TẠ",
+        "numberCharacter": 4,
+        "wordcomplete": "ĐA TẠ"
+    },
+    {
+        "id": 177,
+        "singer": "",
+        "firstword": "MẬT",
+        "character": "M_A_T_T_H_A_T",
+        "questionType": 0,
+        "secondword": "THẤT",
+        "numberCharacter": 7,
+        "wordcomplete": "MẬT THẤT"
+    },
+    {
+        "id": 178,
+        "singer": "",
+        "firstword": "NHIỆT",
+        "character": "N_H_I_E_T_M_I_E_N_G",
+        "questionType": 0,
+        "secondword": "MIỆNG",
+        "numberCharacter": 10,
+        "wordcomplete": "NHIỆT MIỆNG"
+    },
+    {
+        "id": 179,
+        "singer": "",
+        "firstword": "YÊN",
+        "character": "Y_E_N_L_O_N_G",
+        "questionType": 0,
+        "secondword": "LÒNG",
+        "numberCharacter": 7,
+        "wordcomplete": "YÊN LÒNG"
+    },
+    {
+        "id": 180,
+        "singer": "",
+        "firstword": "CA",
+        "character": "C_A_T_U_N_G",
+        "questionType": 0,
+        "secondword": "TỤNG",
+        "numberCharacter": 6,
+        "wordcomplete": "CA TỤNG"
+    },
+    {
+        "id": 181,
+        "singer": "",
+        "firstword": "PHÓNG",
+        "character": "P_H_O_N_G_V_I_E_N",
+        "questionType": 0,
+        "secondword": "VIÊN",
+        "numberCharacter": 9,
+        "wordcomplete": "PHÓNG VIÊN"
+    },
+    {
+        "id": 182,
+        "singer": "",
+        "firstword": "THIÊN",
+        "character": "T_H_I_E_N_C_O",
+        "questionType": 0,
+        "secondword": "CƠ",
+        "numberCharacter": 7,
+        "wordcomplete": "THIÊN CƠ"
+    },
+    {
+        "id": 183,
+        "singer": "",
+        "firstword": "CA",
+        "character": "C_A_H_A_T",
+        "questionType": 0,
+        "secondword": "HÁT",
+        "numberCharacter": 5,
+        "wordcomplete": "CA HÁT"
+    },
+    {
+        "id": 184,
+        "singer": "",
+        "firstword": "GIẤY",
+        "character": "G_I_A_Y_M_O_I",
+        "questionType": 0,
+        "secondword": "MỜI",
+        "numberCharacter": 7,
+        "wordcomplete": "GIẤY MỜI"
+    },
+    {
+        "id": 185,
+        "singer": "",
+        "firstword": "HÀ",
+        "character": "H_A_M_A",
+        "questionType": 0,
+        "secondword": "MÃ",
+        "numberCharacter": 4,
+        "wordcomplete": "HÀ MÃ"
+    },
+    {
+        "id": 186,
+        "singer": "",
+        "firstword": "QUY",
+        "character": "Q_U_Y_T_I_E_N",
+        "questionType": 0,
+        "secondword": "TIÊN",
+        "numberCharacter": 7,
+        "wordcomplete": "QUY TIÊN"
+    },
+    {
+        "id": 187,
+        "singer": "",
+        "firstword": "LÊN",
+        "character": "L_E_N_D_O_N_G",
+        "questionType": 0,
+        "secondword": "ĐỒNG",
+        "numberCharacter": 7,
+        "wordcomplete": "LÊN ĐỒNG"
+    },
+    {
+        "id": 188,
+        "singer": "",
+        "firstword": "BẠC",
+        "character": "B_A_C_T_I_N_H",
+        "questionType": 0,
+        "secondword": "TÌNH",
+        "numberCharacter": 7,
+        "wordcomplete": "BẠC TÌNH"
+    },
+    {
+        "id": 189,
+        "singer": "",
+        "firstword": "GIỜ",
+        "character": "G_I_O_V_A_N_G",
+        "questionType": 0,
+        "secondword": "VÀNG",
+        "numberCharacter": 7,
+        "wordcomplete": "GIỜ VÀNG"
+    },
+    {
+        "id": 190,
+        "singer": "",
+        "firstword": "AN",
+        "character": "A_N_U_I",
+        "questionType": 0,
+        "secondword": "ỦI",
+        "numberCharacter": 4,
+        "wordcomplete": "AN ỦI"
+    },
+    {
+        "id": 191,
+        "singer": "",
+        "firstword": "TÍNH",
+        "character": "T_I_N_H_M_A_N_G",
+        "questionType": 0,
+        "secondword": "MẠNG",
+        "numberCharacter": 8,
+        "wordcomplete": "TÍNH MẠNG"
+    },
+    {
+        "id": 192,
+        "singer": "",
+        "firstword": "LỪA",
+        "character": "L_U_A_G_A_T",
+        "questionType": 0,
+        "secondword": "GẠT",
+        "numberCharacter": 6,
+        "wordcomplete": "LỪA GẠT"
+    },
+    {
+        "id": 193,
+        "singer": "",
+        "firstword": "THIÊN",
+        "character": "T_H_I_E_N_D_I_N_H",
+        "questionType": 0,
+        "secondword": "ĐÌNH",
+        "numberCharacter": 9,
+        "wordcomplete": "THIÊN ĐÌNH"
+    },
+    {
+        "id": 194,
+        "singer": "",
+        "firstword": "ĐÁNH",
+        "character": "D_A_N_H_B_A_C",
+        "questionType": 0,
+        "secondword": "BẠC",
+        "numberCharacter": 7,
+        "wordcomplete": "ĐÁNH BẠC"
+    },
+    {
+        "id": 195,
+        "singer": "",
+        "firstword": "CHÀO",
+        "character": "C_H_A_O_C_O",
+        "questionType": 0,
+        "secondword": "CỜ",
+        "numberCharacter": 6,
+        "wordcomplete": "CHÀO CỜ"
+    },
+    {
+        "id": 196,
+        "singer": "",
+        "firstword": "Ý",
+        "character": "Y_T_H_U_C",
+        "questionType": 0,
+        "secondword": "THỨC",
+        "numberCharacter": 5,
+        "wordcomplete": "Ý THỨC"
+    },
+    {
+        "id": 197,
+        "singer": "",
+        "firstword": "THÀNH",
+        "character": "T_H_A_N_H_K_I_N_H",
+        "questionType": 0,
+        "secondword": "KÍNH",
+        "numberCharacter": 9,
+        "wordcomplete": "THÀNH KÍNH"
+    },
+    {
+        "id": 198,
+        "singer": "",
+        "firstword": "CHÂN",
+        "character": "C_H_A_N_K_H_O_N_G",
+        "questionType": 0,
+        "secondword": "KHÔNG",
+        "numberCharacter": 9,
+        "wordcomplete": "CHÂN KHÔNG"
+    },
+    {
+        "id": 199,
+        "singer": "",
+        "firstword": "HỒNG",
+        "character": "H_O_N_G_T_H_U_Y",
+        "questionType": 0,
+        "secondword": "THỦY",
+        "numberCharacter": 8,
+        "wordcomplete": "HỒNG THỦY"
+    },
+    {
+        "id": 200,
+        "singer": "",
+        "firstword": "TÂM",
+        "character": "T_A_M_C_A_N",
+        "questionType": 0,
+        "secondword": "CAN",
+        "numberCharacter": 6,
+        "wordcomplete": "TÂM CAN"
+    }
+    ]
+}
