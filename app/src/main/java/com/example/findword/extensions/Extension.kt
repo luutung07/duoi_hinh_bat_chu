@@ -1,5 +1,6 @@
 package com.example.findword.extensions
 
+import android.annotation.SuppressLint
 import android.app.Application
 import android.content.Context
 import android.graphics.Color
@@ -10,13 +11,17 @@ import android.os.Parcelable
 import android.util.SparseArray
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
 import android.widget.TextView
-import androidx.annotation.*
+import androidx.annotation.AttrRes
+import androidx.annotation.ColorInt
+import androidx.annotation.ColorRes
+import androidx.annotation.DimenRes
+import androidx.annotation.DrawableRes
+import androidx.annotation.FontRes
+import androidx.annotation.StringRes
 import androidx.core.content.ContextCompat
 import androidx.core.content.res.ResourcesCompat
 import androidx.core.view.children
-import com.example.findword.R
 import com.google.android.material.color.MaterialColors
 
 const val STRING_DEFAULT = ""
@@ -145,5 +150,16 @@ fun ViewGroup.restoreInstanceState(state: Parcelable?): Parcelable? {
         newState = newState.getParcelable("SUPER_STATE_KEY")
     }
     return newState
+}
+
+@SuppressLint("UseCompatLoadingForDrawables", "DiscouragedApi")
+fun getImage(name: String?): Drawable? {
+    return getAppDrawable(
+        getApplication().resources.getIdentifier(
+            name,
+            "drawable",
+            getApplication().packageName
+        )
+    )
 }
 

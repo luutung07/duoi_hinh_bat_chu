@@ -17,6 +17,14 @@
             android:name=".presentation.splash.SplashActivity"
             android:exported="true">
 
+
+
+        </activity>
+
+        <activity
+            android:name=".presentation.main.MainActivity"
+            android:exported="true">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -24,10 +32,6 @@
             </intent-filter>
 
         </activity>
-
-        <activity
-            android:name=".presentation.main.MainActivity"
-            android:exported="false"/>
 
     </application>
 

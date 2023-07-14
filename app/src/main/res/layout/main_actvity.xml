@@ -85,27 +85,30 @@
         android:layout_height="0dp"
         android:layout_marginVertical="@dimen/dimen_10"
         android:background="@color/back_ground_app"
-        app:layout_constraintTop_toTopOf="@id/llMainImage"
-        app:layout_constraintStart_toStartOf="@id/llMainImage"
         app:layout_constraintBottom_toBottomOf="@id/llMainImage"
-        app:layout_constraintEnd_toEndOf="@id/llMainImage"/>
+        app:layout_constraintEnd_toEndOf="@id/llMainImage"
+        app:layout_constraintStart_toStartOf="@id/llMainImage"
+        app:layout_constraintTop_toTopOf="@id/llMainImage" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvMainResult"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:layout_height="@dimen/dimen_100"
-        android:layout_marginTop="@dimen/dimen_20"
+        android:layout_marginTop="@dimen/dimen_40"
         app:layoutManager="com.google.android.flexbox.FlexboxLayoutManager"
-        app:layout_constraintTop_toBottomOf="@id/llMainImage"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
+        app:layout_constraintTop_toBottomOf="@id/llMainImage"
+        tools:layout_height="@dimen/dimen_100" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvMainOption"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:layout_constraintTop_toBottomOf="@id/rvMainResult"
-        android:layout_marginTop="@dimen/dimen_40"/>
+        app:layoutManager="com.google.android.flexbox.FlexboxLayoutManager"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/rvMainResult" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -8,4 +8,6 @@ interface IQuestionRepo {
 
     fun getQuestion(index: Int): Question
 
+    fun getAllCharacter(): List<String>
+
 }

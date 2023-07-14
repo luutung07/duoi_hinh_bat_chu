@@ -1,34 +1,25 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/flWordRoot"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/flWordRoot"
     android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
     android:layout_margin="@dimen/dimen_2"
-    android:layout_height="wrap_content">
+    android:background="@drawable/shape_bg_white_corner_8"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?selectableItemBackground">
 
-    <FrameLayout
-        android:id="@+id/flWord"
+    <TextView
+        android:id="@+id/tvWord"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_margin="@dimen/dimen_8"
-        android:background="@drawable/shape_bg_white_corner_8"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
-
-        <TextView
-            android:id="@+id/tvWord"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:paddingHorizontal="@dimen/dimen_20"
-            android:paddingVertical="@dimen/dimen_10"
-            android:textSize="@dimen/dimen_text_size_12"
-            android:textColor="@color/black"
-            tools:text="A" />
-
-    </FrameLayout>
+        android:paddingHorizontal="@dimen/dimen_20"
+        android:paddingVertical="@dimen/dimen_10"
+        android:textColor="@color/black"
+        android:textSize="@dimen/dimen_text_size_12"
+        tools:text="A" />
 
 </FrameLayout>
