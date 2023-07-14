@@ -21,8 +21,6 @@ class WordAdapter :
         private const val UPDATE_STATE_SELECT_PAYLOAD = "UPDATE_STATE_SELECT_PAYLOAD"
     }
 
-    private var countOption = 0
-
     var listener: IWordListener? = null
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): WordVH {
@@ -49,21 +47,26 @@ class WordAdapter :
                 val item = getItem(absoluteAdapterPosition)
                 when (item.type) {
                     WORD_TYPE.OPTION -> {
-                        if (!item.isSelect && countOption < (item.answerCorrect?.length ?: 0)) {
+                        if (!item.isSelect) {
                             listener?.onSelectOption(
                                 item.character ?: STRING_DEFAULT,
                                 item.type ?: WORD_TYPE.ANSWER,
                                 absoluteAdapterPosition
                             )
-                            countOption++
                         } else {
-                            countOption--
-                            listener?.onRemoveOption(absoluteAdapterPosition)
+                            listener?.onRemoveOption(
+                                absoluteAdapterPosition,
+                                type = item.type ?: WORD_TYPE.ANSWER
+                            )
                         }
                     }
 
                     WORD_TYPE.SELECTED_OPTION -> {
-
+                        listener?.onRemoveOption(
+                            absoluteAdapterPosition,
+                            type = item.type ?: WORD_TYPE.ANSWER,
+                            item.character
+                        )
                     }
 
                     else -> {}

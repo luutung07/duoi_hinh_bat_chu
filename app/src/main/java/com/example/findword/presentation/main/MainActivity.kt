@@ -1,6 +1,7 @@
 package com.example.findword.presentation.main
 
 import android.os.Bundle
+import android.util.Log
 import android.util.Size
 import android.widget.Toast
 import androidx.activity.viewModels
@@ -66,26 +67,23 @@ class MainActivity : BaseActivity() {
 
     private fun addListener() {
         adapterResult.listener = object : IWordListener {
-            override fun onSelectOption(option: String, type: WORD_TYPE, position: Int) {
-
-            }
-
-            override fun onRemoveOption(position: Int) {
-
+            override fun onRemoveOption(position: Int, type: WORD_TYPE, option: String?) {
+                viewModel.removeWord(position, type, option)
             }
         }
 
         adapterOption.listener = object : IWordListener {
             override fun onSelectOption(option: String, type: WORD_TYPE, position: Int) {
+                Log.d(TAG, "onSelectOption: tunglv ${viewModel.indexAnswer}")
                 if (viewModel.indexAnswer >= viewModel.answerCorrect.length - 1) {
-
+                    Toast.makeText(this@MainActivity, "chàn ký tự", Toast.LENGTH_SHORT).show()
                 } else {
                     viewModel.selectWord(option, type, position)
                 }
             }
 
-            override fun onRemoveOption(position: Int) {
-                viewModel.removeWord(position)
+            override fun onRemoveOption(position: Int, type: WORD_TYPE, option: String?) {
+                viewModel.removeWord(position, type, option)
             }
         }
     }

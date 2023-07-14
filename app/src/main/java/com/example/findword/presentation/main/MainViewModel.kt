@@ -28,6 +28,8 @@ class MainViewModel : ViewModel() {
 
     private val repo = RepositoryFactory.getQuestionRepo()
 
+    private var savePositionRemove: MutableSet<Int> = hashSetOf()
+
     var currentQuestion = 12
 
     var answerCorrect: String = STRING_DEFAULT
@@ -35,10 +37,6 @@ class MainViewModel : ViewModel() {
     var indexAnswer = -1
 
     var savePositionAnswer: MutableMap<Int, Int> = hashMapOf()
-
-    var saveAnswerRemove: MutableMap<Int, Int> = hashMapOf()
-
-    var position = -1
 
     var savePositionOption: MutableMap<Int, String> = hashMapOf()
 
@@ -52,7 +50,7 @@ class MainViewModel : ViewModel() {
         answerCorrect.forEach {
             listCharacter.remove(it.toString())
         }
-        return listCharacter.subList(0, (0..5).random())
+        return listCharacter.subList(0, (0..listCharacter.size - answerCorrect.length).random())
     }
 
     fun getQuestion() {
@@ -90,7 +88,9 @@ class MainViewModel : ViewModel() {
     fun selectWord(option: String, type: WORD_TYPE, position: Int) {
         viewModelScope.launch {
 
-            savePositionOption[position] = option
+            if (!savePositionOption.containsKey(position)) {
+                savePositionOption[position] = option
+            }
 
             val listAnswer = _answerState.value.data?.toMutableList()
 
@@ -103,10 +103,14 @@ class MainViewModel : ViewModel() {
 
                 WORD_TYPE.OPTION -> {
 
-                    if (saveAnswerRemove.containsKey(position)) {
-                        val index = saveAnswerRemove[position]
-                        savePositionAnswer[index!!] = position
-                        listAnswer?.set(index!!, option)
+                    if (savePositionRemove.isNotEmpty()) {
+                        val index = savePositionRemove.elementAt(0)
+                        savePositionAnswer[index] = position
+                        listAnswer?.set(index, option)
+                        savePositionRemove.remove(savePositionRemove.elementAt(0))
+                        if (indexAnswer <= savePositionAnswer.size) {
+                            indexAnswer++
+                        }
                     } else {
                         indexAnswer++
                         savePositionAnswer[indexAnswer] = position
@@ -127,25 +131,43 @@ class MainViewModel : ViewModel() {
         }
     }
 
-    fun removeWord(position: Int) {
+    fun removeWord(position: Int, type: WORD_TYPE,option: String? = null) {
         viewModelScope.launch {
-            indexAnswer--
             val listAnswer = _answerState.value.data?.toMutableList()
 
             val listOption = _optionState.value.data?.toMutableList()
 
-            savePositionOption.remove(position)
-
             var key = -1
-            savePositionAnswer.forEach { k, v ->
-                if (v == position) {
-                    key = k
+            var positionRemove = -1
+            when (type) {
+                WORD_TYPE.SELECTED_OPTION -> {
+                    key = position
+                    savePositionOption.forEach { (k, v) ->
+                        if (v == option){
+                            positionRemove = k
+                        }
+                    }
                 }
+
+                WORD_TYPE.OPTION -> {
+                    savePositionAnswer.forEach { k, v ->
+                        if (v == position) {
+                            key = k
+                        }
+                    }
+                    positionRemove = position
+                }
+
+                else -> {}
             }
 
+            savePositionOption.remove(positionRemove)
             savePositionAnswer.remove(key)
 
-            saveAnswerRemove[position] = key
+            if (indexAnswer >= savePositionAnswer.size) {
+                indexAnswer--
+            }
+            savePositionRemove.add(key)
 
             listAnswer?.let {
                 if (key in 0 until it.size) {
