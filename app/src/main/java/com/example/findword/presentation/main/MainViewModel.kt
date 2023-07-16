@@ -34,6 +34,9 @@ class MainViewModel : ViewModel() {
 
     var answerCorrect: String = STRING_DEFAULT
 
+    /**
+     * chặn click
+     */
     var indexAnswer = -1
 
     var savePositionAnswer: MutableMap<Int, Int> = hashMapOf()
@@ -102,17 +105,13 @@ class MainViewModel : ViewModel() {
                 }
 
                 WORD_TYPE.OPTION -> {
-
+                    indexAnswer++
                     if (savePositionRemove.isNotEmpty()) {
                         val index = savePositionRemove.elementAt(0)
                         savePositionAnswer[index] = position
                         listAnswer?.set(index, option)
                         savePositionRemove.remove(savePositionRemove.elementAt(0))
-                        if (indexAnswer <= savePositionAnswer.size) {
-                            indexAnswer++
-                        }
                     } else {
-                        indexAnswer++
                         savePositionAnswer[indexAnswer] = position
                         listAnswer?.set(indexAnswer, option)
                     }
@@ -131,7 +130,7 @@ class MainViewModel : ViewModel() {
         }
     }
 
-    fun removeWord(position: Int, type: WORD_TYPE,option: String? = null) {
+    fun removeWord(position: Int, type: WORD_TYPE, option: String? = null) {
         viewModelScope.launch {
             val listAnswer = _answerState.value.data?.toMutableList()
 
@@ -143,7 +142,7 @@ class MainViewModel : ViewModel() {
                 WORD_TYPE.SELECTED_OPTION -> {
                     key = position
                     savePositionOption.forEach { (k, v) ->
-                        if (v == option){
+                        if (v == option) {
                             positionRemove = k
                         }
                     }
@@ -164,9 +163,7 @@ class MainViewModel : ViewModel() {
             savePositionOption.remove(positionRemove)
             savePositionAnswer.remove(key)
 
-            if (indexAnswer >= savePositionAnswer.size) {
-                indexAnswer--
-            }
+            indexAnswer--
             savePositionRemove.add(key)
 
             listAnswer?.let {
